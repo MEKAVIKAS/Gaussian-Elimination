@@ -1,0 +1,5 @@
+# Python Dependencies for M3 Gaussian Elimination Animation
+manim>=0.18.0
+numpy>=1.24.0
+scipy>=1.10.0
+pypdf>=4.0.0

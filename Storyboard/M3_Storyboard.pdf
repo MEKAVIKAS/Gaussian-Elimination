@@ -1,0 +1,667 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [8 0 R 10 0 R 12 0 R 14 0 R 16 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier-Bold /Encoding /WinAnsiEncoding >>
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 9 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R /F5 7 0 R >> >> >>
+endobj
+9 0 obj
+<< /Length 6434 >>
+stream
+0.120 0.180 0.320 rg
+36 756 540 2 re f
+BT /F2 8 Tf 36 764 Td (LINEAR ALGEBRA AND CALCULUS (M3)  *  INTERNAL ASSESSMENT STORYBOARD) Tj ET
+BT /F1 8 Tf 400 764 Td (Topic: Gaussian Elimination (3 x 3)) Tj ET
+0.800 0.820 0.860 rg
+36 36 540 1 re f
+0.400 0.450 0.500 rg
+BT /F1 8 Tf 36 24 Td (Student: Meka Vikas  |  ID: E25B070539  |  Format: 16:9 MP4 1080p) Tj ET
+BT /F2 8 Tf 520 24 Td (Page 1 of 5) Tj ET
+0.094 0.125 0.212 rg
+36.00 640.00 540.00 105.00 re
+f
+0.200 0.800 1.000 rg
+BT /F2 11 Tf 50.00 722.00 Td (M3 Internal Assessment: Mathematical Animation Video Project) Tj ET
+1.000 1.000 1.000 rg
+BT /F2 18 Tf 50.00 698.00 Td (How Gaussian Elimination Solves a 3 x 3 System) Tj ET
+0.850 0.900 0.950 rg
+BT /F3 11 Tf 50.00 680.00 Td (A Rigorous, Visual Storyboard & Step-by-Step Educational Script) Tj ET
+0.750 0.820 0.900 rg
+BT /F1 9 Tf 50.00 652.00 Td (Student Name: Meka Vikas    |    Student ID: E25B070539    |    Weightage: 10%) Tj ET
+0.950 0.960 0.980 rg
+36.00 565.00 540.00 20.00 re
+f
+0.150 0.250 0.450 rg
+BT /F2 8 Tf 44.00 571.00 Td (Topic Focus:) Tj ET
+0.100 0.100 0.100 rg
+BT /F1 8 Tf 110.00 571.00 Td (Gaussian Elimination on a 3 x 3 Linear System) Tj ET
+0.150 0.250 0.450 rg
+BT /F2 8 Tf 310.00 571.00 Td (Target Duration:) Tj ET
+0.100 0.100 0.100 rg
+BT /F1 8 Tf 390.00 571.00 Td (5 Minutes \(Strict Max: 7 Min\)) Tj ET
+0.950 0.960 0.980 rg
+36.00 542.00 540.00 20.00 re
+f
+0.150 0.250 0.450 rg
+BT /F2 8 Tf 44.00 548.00 Td (Video Format:) Tj ET
+0.100 0.100 0.100 rg
+BT /F1 8 Tf 110.00 548.00 Td (16:9 Landscape \(1920 x 1080 Full HD\)) Tj ET
+0.150 0.250 0.450 rg
+BT /F2 8 Tf 310.00 548.00 Td (Final File:) Tj ET
+0.100 0.100 0.100 rg
+BT /F1 8 Tf 390.00 548.00 Td (MP4 with clear voice-over narration) Tj ET
+0.950 0.960 0.980 rg
+36.00 519.00 540.00 20.00 re
+f
+0.150 0.250 0.450 rg
+BT /F2 8 Tf 44.00 525.00 Td (Visual Aesthetic:) Tj ET
+0.100 0.100 0.100 rg
+BT /F1 8 Tf 110.00 525.00 Td (3Blue1Brown inspired dark slate & color coding) Tj ET
+0.150 0.250 0.450 rg
+BT /F2 8 Tf 310.00 525.00 Td (Delivery Repo:) Tj ET
+0.100 0.100 0.100 rg
+BT /F1 8 Tf 390.00 525.00 Td (Public GitHub Repository + Google Form) Tj ET
+0.920 0.950 1.000 rg
+0.200 0.500 0.900 RG
+1.00 w
+36.00 442.00 540.00 42.00 re
+B
+0.050 0.250 0.650 rg
+BT /F2 9 Tf 48.00 468.00 Td (Formal Learning Objective:) Tj ET
+0.100 0.150 0.250 rg
+BT /F3 8 Tf 48.00 452.00 Td ("By the end of this video, the viewer will understand how elementary row operations transform a 3 x 3) Tj ET
+0.100 0.150 0.250 rg
+BT /F3 8 Tf 48.00 442.00 Td (system into row echelon form without changing the solution set, and be able to solve the system through) Tj ET
+0.100 0.150 0.300 rg
+BT /F2 12 Tf 36.00 420.00 Td (Official 6-Scene Storyboard Architecture) Tj ET
+0.150 0.250 0.450 rg
+36.00 396.00 540.00 18.00 re
+f
+1.000 1.000 1.000 rg
+BT /F2 8 Tf 42.00 402.00 Td (Scene) Tj ET
+1.000 1.000 1.000 rg
+BT /F2 8 Tf 80.00 402.00 Td (Official Purpose) Tj ET
+1.000 1.000 1.000 rg
+BT /F2 8 Tf 195.00 402.00 Td (Core Visual & Mathematical Animation Plan) Tj ET
+1.000 1.000 1.000 rg
+BT /F2 8 Tf 470.00 402.00 Td (Timing) Tj ET
+1.000 1.000 1.000 rg
+BT /F2 8 Tf 515.00 402.00 Td (Words) Tj ET
+0.970 0.980 1.000 rg
+36.00 374.00 540.00 22.00 re
+f
+0.150 0.250 0.450 rg
+BT /F2 8 Tf 42.00 381.00 Td (Scene 1) Tj ET
+0.200 0.200 0.200 rg
+BT /F1 8 Tf 80.00 381.00 Td (Opening & Hook) Tj ET
+0.100 0.100 0.100 rg
+BT /F1 7.5 Tf 195.00 381.00 Td (Spoken intro \(Meka Vikas, M3\) & 3D planes hook intersecting at \(1,2,3\).) Tj ET
+0.100 0.450 0.200 rg
+BT /F2 7.5 Tf 470.00 381.00 Td (0:00 - 0:48 \(48s\)) Tj ET
+0.400 0.400 0.400 rg
+BT /F1 7.5 Tf 520.00 381.00 Td (120 w) Tj ET
+1.000 1.000 1.000 rg
+36.00 351.00 540.00 22.00 re
+f
+0.150 0.250 0.450 rg
+BT /F2 8 Tf 42.00 358.00 Td (Scene 2) Tj ET
+0.200 0.200 0.200 rg
+BT /F1 8 Tf 80.00 358.00 Td (Concept Intro) Tj ET
+0.100 0.100 0.100 rg
+BT /F1 7.5 Tf 195.00 358.00 Td (Define system Ax=b, augmented matrix [A|b], pivots & 3 row operations.) Tj ET
+0.100 0.450 0.200 rg
+BT /F2 7.5 Tf 470.00 358.00 Td (0:48 - 1:32 \(44s\)) Tj ET
+0.400 0.400 0.400 rg
+BT /F1 7.5 Tf 520.00 358.00 Td (98 w) Tj ET
+0.970 0.980 1.000 rg
+36.00 328.00 540.00 22.00 re
+f
+0.150 0.250 0.450 rg
+BT /F2 8 Tf 42.00 335.00 Td (Scene 3) Tj ET
+0.200 0.200 0.200 rg
+BT /F1 8 Tf 80.00 335.00 Td (Visual Intuition) Tj ET
+0.100 0.100 0.100 rg
+BT /F1 7.5 Tf 195.00 335.00 Td (Prove why row operations preserve truth & upper-triangular echelon goal.) Tj ET
+0.100 0.450 0.200 rg
+BT /F2 7.5 Tf 470.00 335.00 Td (1:32 - 2:11 \(39s\)) Tj ET
+0.400 0.400 0.400 rg
+BT /F1 7.5 Tf 520.00 335.00 Td (88 w) Tj ET
+1.000 1.000 1.000 rg
+36.00 305.00 540.00 22.00 re
+f
+0.150 0.250 0.450 rg
+BT /F2 8 Tf 42.00 312.00 Td (Scene 4) Tj ET
+0.200 0.200 0.200 rg
+BT /F1 8 Tf 80.00 312.00 Td (Worked Example) Tj ET
+0.100 0.100 0.100 rg
+BT /F1 7.5 Tf 195.00 312.00 Td (Four row operations to echelon form, then back-substitution cascade.) Tj ET
+0.100 0.450 0.200 rg
+BT /F2 7.5 Tf 470.00 312.00 Td (2:11 - 4:25 \(134s\)) Tj ET
+0.400 0.400 0.400 rg
+BT /F1 7.5 Tf 520.00 312.00 Td (245 w) Tj ET
+0.970 0.980 1.000 rg
+36.00 282.00 540.00 22.00 re
+f
+0.150 0.250 0.450 rg
+BT /F2 8 Tf 42.00 289.00 Td (Scene 5) Tj ET
+0.200 0.200 0.200 rg
+BT /F1 8 Tf 80.00 289.00 Td (Interpretation) Tj ET
+0.100 0.100 0.100 rg
+BT /F1 7.5 Tf 195.00 289.00 Td (Connect algebra to 3D point \(1,2,3\); verify in 3 original equations.) Tj ET
+0.100 0.450 0.200 rg
+BT /F2 7.5 Tf 470.00 289.00 Td (4:25 - 5:06 \(41s\)) Tj ET
+0.400 0.400 0.400 rg
+BT /F1 7.5 Tf 520.00 289.00 Td (85 w) Tj ET
+1.000 1.000 1.000 rg
+36.00 259.00 540.00 22.00 re
+f
+0.150 0.250 0.450 rg
+BT /F2 8 Tf 42.00 266.00 Td (Scene 6) Tj ET
+0.200 0.200 0.200 rg
+BT /F1 8 Tf 80.00 266.00 Td (Summary & Credits) Tj ET
+0.100 0.100 0.100 rg
+BT /F1 7.5 Tf 195.00 266.00 Td (3 core takeaways; title/name/URN frame, references & AI disclosure.) Tj ET
+0.100 0.450 0.200 rg
+BT /F2 7.5 Tf 470.00 266.00 Td (5:06 - 5:33 \(27s\)) Tj ET
+0.400 0.400 0.400 rg
+BT /F1 7.5 Tf 520.00 266.00 Td (62 w) Tj ET
+0.980 0.950 0.920 rg
+0.900 0.600 0.200 RG
+36.00 175.00 540.00 48.00 re
+B
+0.700 0.350 0.000 rg
+BT /F2 8.5 Tf 46.00 208.00 Td (CRITICAL PEDAGOGICAL & TECHNICAL HIGHLIGHTS:) Tj ET
+0.200 0.200 0.200 rg
+BT /F1 8 Tf 46.00 194.00 Td (* Verified Unique Solution: det\(A\) = 7 != 0. System has full rank 3 and intersects at exactly one point \(1, 2, 3\).) Tj ET
+0.200 0.200 0.200 rg
+BT /F1 8 Tf 46.00 182.00 Td (* Avoids Awkward Fractions: Row Swap \(R2 <-> R3\) places pivot 1 at position \(2, 2\) before eliminating row 3.) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 11 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R /F5 7 0 R >> >> >>
+endobj
+11 0 obj
+<< /Length 5912 >>
+stream
+0.120 0.180 0.320 rg
+36 756 540 2 re f
+BT /F2 8 Tf 36 764 Td (LINEAR ALGEBRA AND CALCULUS (M3)  *  INTERNAL ASSESSMENT STORYBOARD) Tj ET
+BT /F1 8 Tf 400 764 Td (Topic: Gaussian Elimination (3 x 3)) Tj ET
+0.800 0.820 0.860 rg
+36 36 540 1 re f
+0.400 0.450 0.500 rg
+BT /F1 8 Tf 36 24 Td (Student: Meka Vikas  |  ID: E25B070539  |  Format: 16:9 MP4 1080p) Tj ET
+BT /F2 8 Tf 520 24 Td (Page 2 of 5) Tj ET
+0.100 0.150 0.300 rg
+BT /F2 14 Tf 36.00 735.00 Td (Scene-by-Scene Detailed Storyboard & Production Plans) Tj ET
+0.950 0.970 1.000 rg
+0.200 0.400 0.800 RG
+1.00 w
+36.00 440.00 540.00 280.00 re
+B
+0.150 0.250 0.450 rg
+36.00 696.00 540.00 24.00 re
+f
+1.000 1.000 1.000 rg
+BT /F2 10 Tf 46.00 704.00 Td (SCENE 1: OPENING TITLE, STUDENT INTRO & HOOK) Tj ET
+0.300 0.900 1.000 rg
+BT /F2 9 Tf 370.00 704.00 Td (Timestamp: 0:00 - 0:48 | Duration: 48s) Tj ET
+0.150 0.250 0.450 rg
+BT /F2 8 Tf 46.00 680.00 Td (VISUAL SCREENPLAY & CAMERA:) Tj ET
+0.100 0.100 0.150 rg
+BT /F1 7.5 Tf 46.00 668.00 Td (0:00-0:13 Opening title card displays official course banner, project title, student name, URN E25B070539, and GitHub.) Tj ET
+0.100 0.100 0.150 rg
+BT /F1 7.5 Tf 46.00 657.50 Td (0:13-0:34 Equations appear sequentially \(13.7s-17.3s\); bounded 3D plot reveals 3 translucent gridded planes:) Tj ET
+0.100 0.100 0.150 rg
+BT /F1 7.5 Tf 46.00 647.00 Td (  - Plane 1 \(Cyan\): x + y + z = 6    - Plane 2 \(Emerald\): 2x - y + z = 3    - Plane 3 \(Coral\): x + 2y - z = 2) Tj ET
+0.100 0.100 0.150 rg
+BT /F1 7.5 Tf 46.00 636.50 Td (0:34-0:48 Pulsing gold intersection sphere \(1, 2, 3\) with leader badge; coupled variables prompt reveals) Tj ET
+0.100 0.100 0.150 rg
+BT /F1 7.5 Tf 46.00 626.00 Td (  'GAUSSIAN ELIMINATION' solution method banner on spoken cue.) Tj ET
+0.150 0.250 0.450 rg
+BT /F2 8 Tf 46.00 595.00 Td (MATHEMATICAL REPRESENTATION:) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7.5 Tf 46.00 583.00 Td (System: { x + y + z = 6,  2x - y + z = 3,  x + 2y - z = 2 }) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7.5 Tf 46.00 572.50 Td (Geometric configuration: Three planes in R^3 intersecting pairwise in lines, and mutually at \(1, 2, 3\).) Tj ET
+0.700 0.200 0.100 rg
+BT /F2 8 Tf 46.00 550.00 Td (EXACT SPOKEN NARRATION SCRIPT \(Word-for-Word\):) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7 Tf 46.00 538.00 Td (Intro \(0:00-0:12\): "Hello everyone, my name is Meka Vikas. In this internal assessment video for Linear Algebra) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7 Tf 46.00 528.50 Td (and Calculus, we will explore how Gaussian elimination solves a 3 by 3 system of linear equations.") Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7 Tf 46.00 519.00 Td (Hook \(0:13-0:48\): "Imagine you are handed three linear equations with three unknown variables: x, y, and z.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7 Tf 46.00 509.50 Td (Geometrically, every linear equation in three variables forms a flat plane in 3D space. Finding a simultaneous solution) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7 Tf 46.00 500.00 Td (means finding the exact coordinates where all the three planes intersect at a single point. When the variables are) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7 Tf 46.00 490.50 Td (completely tangled together, guessing is impossible. So how can we systematically untangle them without altering the) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7 Tf 46.00 481.00 Td (answer? That is precisely what Gaussian elimination does.") Tj ET
+0.980 0.980 1.000 rg
+0.200 0.400 0.800 RG
+1.00 w
+36.00 135.00 540.00 290.00 re
+B
+0.150 0.250 0.450 rg
+36.00 401.00 540.00 24.00 re
+f
+1.000 1.000 1.000 rg
+BT /F2 10 Tf 46.00 409.00 Td (SCENE 2: CONCEPT INTRODUCTION) Tj ET
+0.300 0.900 1.000 rg
+BT /F2 9 Tf 370.00 409.00 Td (Timestamp: 0:48 - 1:32 | Duration: 44s) Tj ET
+0.150 0.250 0.450 rg
+BT /F2 8 Tf 46.00 386.00 Td (VISUAL SCREENPLAY & CAMERA:) Tj ET
+0.100 0.100 0.150 rg
+BT /F1 7.5 Tf 46.00 374.00 Td (0:48-0:59 Equations align; variables dissolve and morph into Augmented Matrix [A | b].) Tj ET
+0.100 0.100 0.150 rg
+BT /F1 7.5 Tf 46.00 363.50 Td (0:59-1:08 Coefficient Matrix A highlights, augmentation line draws, Constants b highlights.) Tj ET
+0.100 0.100 0.150 rg
+BT /F1 7.5 Tf 46.00 353.00 Td (1:08-1:14 Matrix shifts left; Goal: Row Echelon Form \(REF\) schematic with P1, P2, P3 appears on right.) Tj ET
+0.100 0.100 0.150 rg
+BT /F1 7.5 Tf 46.00 342.50 Td (1:14-1:32 Three Rule Cards pop in sequentially \(76.8s, 78.3s, 80.6s\); Pivot \(1,1\)=1 glows at 84.2s.) Tj ET
+0.150 0.250 0.450 rg
+BT /F2 8 Tf 46.00 310.00 Td (MATHEMATICAL MATRIX DEFINITIONS:) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7.5 Tf 46.00 298.00 Td (Coefficient Matrix A = [[1, 1, 1], [2, -1, 1], [1, 2, -1]],  b = [6, 3, 2]^T) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7.5 Tf 46.00 287.50 Td (Augmented Matrix [A | b] = [ [1,  1,  1 | 6],  [2, -1,  1 | 3],  [1,  2, -1 | 2] ]) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7.5 Tf 46.00 277.00 Td (Row Echelon Form Goal: Upper triangular zero pattern beneath diagonal pivots.) Tj ET
+0.700 0.200 0.100 rg
+BT /F2 8 Tf 46.00 252.00 Td (EXACT SPOKEN NARRATION SCRIPT \(Word-for-Word\):) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7.5 Tf 46.00 240.00 Td ("Before we crunch numbers, let's define our tools.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7.5 Tf 46.00 229.50 Td (A system of linear equations can be stripped of its variable letters and stored as an augmented matrix.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7.5 Tf 46.00 219.00 Td (The left side holds the coefficients of x, y, and z, separated by a line from the constants on the right.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7.5 Tf 46.00 208.50 Td (Our goal is to reach Row Echelon Form--an upper-triangular pattern with zeros below the diagonal.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7.5 Tf 46.00 198.00 Td (To get there, we use three elementary row operations: swapping rows, scaling a row by a non-zero constant, or adding a multiple of one row to another.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7.5 Tf 46.00 187.50 Td (The leading non-zero number in each row is called a pivot.") Tj ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 13 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R /F5 7 0 R >> >> >>
+endobj
+13 0 obj
+<< /Length 7065 >>
+stream
+0.120 0.180 0.320 rg
+36 756 540 2 re f
+BT /F2 8 Tf 36 764 Td (LINEAR ALGEBRA AND CALCULUS (M3)  *  INTERNAL ASSESSMENT STORYBOARD) Tj ET
+BT /F1 8 Tf 400 764 Td (Topic: Gaussian Elimination (3 x 3)) Tj ET
+0.800 0.820 0.860 rg
+36 36 540 1 re f
+0.400 0.450 0.500 rg
+BT /F1 8 Tf 36 24 Td (Student: Meka Vikas  |  ID: E25B070539  |  Format: 16:9 MP4 1080p) Tj ET
+BT /F2 8 Tf 520 24 Td (Page 3 of 5) Tj ET
+0.100 0.150 0.300 rg
+BT /F2 14 Tf 36.00 735.00 Td (Scene-by-Scene Detailed Storyboard \(Continued\)) Tj ET
+0.970 0.990 0.970 rg
+0.100 0.500 0.200 RG
+1.00 w
+36.00 525.00 540.00 195.00 re
+B
+0.120 0.380 0.220 rg
+36.00 696.00 540.00 24.00 re
+f
+1.000 1.000 1.000 rg
+BT /F2 10 Tf 46.00 704.00 Td (SCENE 3: VISUAL INTUITION) Tj ET
+0.700 1.000 0.700 rg
+BT /F2 9 Tf 370.00 704.00 Td (Timestamp: 1:32 - 2:11 | Duration: 39s) Tj ET
+0.120 0.380 0.220 rg
+BT /F2 8 Tf 46.00 680.00 Td (VISUAL SCREENPLAY & INTUITION:) Tj ET
+0.100 0.100 0.150 rg
+BT /F1 7.5 Tf 46.00 668.00 Td (1:32-1:53 Left panel builds algebraic equivalence \(LHS1=RHS1, LHS2+k*LHS1=RHS2+k*RHS1\) & invertibility.) Tj ET
+0.100 0.100 0.150 rg
+BT /F1 7.5 Tf 46.00 657.50 Td (1:53-2:05 Right panel shows 3D planes tilting toward simpler planes while \(1, 2, 3\) remains locked.) Tj ET
+0.100 0.100 0.150 rg
+BT /F1 7.5 Tf 46.00 647.00 Td (2:05-2:11 Right panel transitions to Echelon Form matrix + staircase highlighting -7z = -21 \(1 unknown!\).) Tj ET
+0.700 0.200 0.100 rg
+BT /F2 8 Tf 46.00 615.00 Td (EXACT SPOKEN NARRATION SCRIPT \(Word-for-Word\):) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7.5 Tf 46.00 603.00 Td ("Why are row operations mathematically legal? Each row is simply an equation.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7.5 Tf 46.00 592.50 Td (If two statements are true, adding a multiple of one true statement to another creates a new, equally true statement.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7.5 Tf 46.00 582.00 Td (Because each elementary operation can be reversed by an inverse operation, the solution set is strictly preserved.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7.5 Tf 46.00 571.50 Td (Geometrically, row operations replace our original planes with new, simpler planes that still intersect at the exact same point.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7.5 Tf 46.00 561.00 Td (By systematically creating zeros beneath our pivots, we untangle the variables, leaving the bottom equation with only one unknown.") Tj ET
+0.990 0.980 0.950 rg
+0.800 0.400 0.100 RG
+1.00 w
+36.00 85.00 540.00 425.00 re
+B
+0.550 0.250 0.050 rg
+36.00 486.00 540.00 24.00 re
+f
+1.000 1.000 1.000 rg
+BT /F2 10 Tf 46.00 494.00 Td (SCENE 4 \(PART 1\): WORKED EXAMPLE - GAUSSIAN ELIMINATION) Tj ET
+1.000 0.850 0.400 rg
+BT /F2 9 Tf 370.00 494.00 Td (Timestamp: 2:11 - 3:41 | Duration: 90s) Tj ET
+0.550 0.250 0.050 rg
+BT /F2 8 Tf 46.00 472.00 Td (STEP-BY-STEP ELIMINATION WALKTHROUGH & INTERMEDIATE ARITHMETIC:) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7 Tf 46.00 458.00 Td (STEP 4A: Eliminate x from Row 2 \(R2 -> R2 - 2*R1\)  [2:11 - 2:41]) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7 Tf 46.00 448.50 Td (  Pivot 1 = 1 at \(1,1\). Target = 2 at \(2,1\).) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7 Tf 46.00 439.00 Td (  Calculation:  [2, -1, 1 | 3] - 2*[1, 1, 1 | 6] = [2-2, -1-2, 1-2 | 3-12] = [0, -3, -1 | -9]) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7 Tf 46.00 429.50 Td (  Matrix M1:   Row 2 becomes [0, -3, -1 | -9] on exact spoken arithmetic cues \(147.8s-157.0s\).) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7 Tf 46.00 420.00 Td () Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7 Tf 46.00 410.50 Td (STEP 4B: Eliminate x from Row 3 \(R3 -> R3 - R1\)  [2:41 - 3:02]) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7 Tf 46.00 401.00 Td (  Target = 1 at \(3,1\).) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7 Tf 46.00 391.50 Td (  Calculation:  [1, 2, -1 | 2] - 1*[1, 1, 1 | 6] = [1-1, 2-1, -1-1 | 2-6] = [0, 1, -2 | -4]) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7 Tf 46.00 382.00 Td (  Matrix M2:   Row 3 becomes [0, 1, -2 | -4]. Column 1 cleared beneath pivot 1!) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7 Tf 46.00 372.50 Td () Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7 Tf 46.00 363.00 Td (STEP 4C: Strategic Row Swap \(R2 <-> R3\)  [3:02 - 3:19]) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7 Tf 46.00 353.50 Td (  Column 2 has -3 in row 2 and 1 in row 3. Swapping avoids introducing fractions!) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7 Tf 46.00 344.00 Td (  Smooth 3D card-flip swap \(191.5s-194.6s\): Row 2 = [0, 1, -2 | -4], Row 3 = [0, -3, -1 | -9].) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7 Tf 46.00 334.50 Td (  Pivot 2 = 1 at position \(2, 2\).) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7 Tf 46.00 325.00 Td () Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7 Tf 46.00 315.50 Td (STEP 4D: Eliminate y from Row 3 \(R3 -> R3 + 3*R2\)  [3:19 - 3:41]) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7 Tf 46.00 306.00 Td (  Target = -3 at \(3,2\).) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7 Tf 46.00 296.50 Td (  Calculation:  [0, -3, -1 | -9] + 3*[0, 1, -2 | -4] = [0+0, -3+3, -1-6 | -9-12] = [0, 0, -7 | -21]) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7 Tf 46.00 287.00 Td (  Matrix M_REF: Row 3 becomes [0, 0, -7 | -21].) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7 Tf 46.00 277.50 Td (  Staircase highlighted: Pivots = 1, 1, -7. All entries below pivots are zero. REF ACHIEVED!) Tj ET
+0.700 0.200 0.100 rg
+BT /F2 8 Tf 46.00 220.00 Td (EXACT SPOKEN NARRATION SCRIPT \(Steps 4A - 4D\):) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7 Tf 46.00 208.00 Td ("Let's work through our system step-by-step. Our first pivot is the one in the top-left corner.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7 Tf 46.00 198.50 Td (To eliminate the two beneath it in Row 2, we subtract two times Row 1 from Row 2.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7 Tf 46.00 189.00 Td (Two minus two is zero; negative one minus two is negative three; one minus two is negative one; and three minus twelve gives negative nine.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7 Tf 46.00 179.50 Td (Our first zero is locked in.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7 Tf 46.00 170.00 Td (Next, to eliminate the one in Row 3, we subtract Row 1 from Row 3.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7 Tf 46.00 160.50 Td (One minus one is zero; two minus one is one; negative one minus one is negative two; and two minus six gives negative four.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7 Tf 46.00 151.00 Td (Column one now has zeros everywhere below the first pivot.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7 Tf 46.00 141.50 Td (Now look at column two. Row 2 has negative three, but Row 3 has a clean one.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7 Tf 46.00 132.00 Td (Instead of dividing by negative three and creating awkward fractions, we swap Row 2 and Row 3. Now our second pivot is a simple one.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7 Tf 46.00 122.50 Td (To eliminate the negative three now sitting in Row 3, we add three times Row 2 to Row 3.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7 Tf 46.00 113.00 Td (Zero plus zero is zero; negative three plus three is zero; negative one plus negative six is negative seven; and negative nine plus negative twelve is negative twenty-one.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7 Tf 46.00 103.50 Td (Look at that: we have reached Row Echelon Form!") Tj ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 15 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R /F5 7 0 R >> >> >>
+endobj
+15 0 obj
+<< /Length 4995 >>
+stream
+0.120 0.180 0.320 rg
+36 756 540 2 re f
+BT /F2 8 Tf 36 764 Td (LINEAR ALGEBRA AND CALCULUS (M3)  *  INTERNAL ASSESSMENT STORYBOARD) Tj ET
+BT /F1 8 Tf 400 764 Td (Topic: Gaussian Elimination (3 x 3)) Tj ET
+0.800 0.820 0.860 rg
+36 36 540 1 re f
+0.400 0.450 0.500 rg
+BT /F1 8 Tf 36 24 Td (Student: Meka Vikas  |  ID: E25B070539  |  Format: 16:9 MP4 1080p) Tj ET
+BT /F2 8 Tf 520 24 Td (Page 4 of 5) Tj ET
+0.100 0.150 0.300 rg
+BT /F2 14 Tf 36.00 735.00 Td (Scene-by-Scene Detailed Storyboard \(Continued\)) Tj ET
+0.970 0.980 1.000 rg
+0.200 0.400 0.800 RG
+1.00 w
+36.00 440.00 540.00 280.00 re
+B
+0.150 0.250 0.450 rg
+36.00 696.00 540.00 24.00 re
+f
+1.000 1.000 1.000 rg
+BT /F2 10 Tf 46.00 704.00 Td (SCENE 4 \(PART 2\): BACK-SUBSTITUTION CASCADE) Tj ET
+0.300 0.900 1.000 rg
+BT /F2 9 Tf 370.00 704.00 Td (Timestamp: 3:41 - 4:25 | Duration: 44s) Tj ET
+0.150 0.250 0.450 rg
+BT /F2 8 Tf 46.00 680.00 Td (VISUAL CASCADE & BACK-SUBSTITUTION ARITHMETIC:) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7.5 Tf 46.00 668.00 Td (The upper triangular matrix unpacks into 3 decoupled equations on screen:) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7.5 Tf 46.00 657.00 Td (  Row 3:  -7z = -21   ==>   z = \(-21\) / \(-7\) = 3   [Amber badge glows, slides into solution box]) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7.5 Tf 46.00 646.00 Td (  Row 2:  y - 2z = -4 ==>   y - 2\(3\) = -4  ==>  y - 6 = -4  ==>  y = 2  [Emerald badge glows]) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7.5 Tf 46.00 635.00 Td (  Row 1:  x + y + z = 6 ==> x + 2 + 3 = 6  ==>  x + 5 = 6  ==>  x = 1  [Cyan badge glows]) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7.5 Tf 46.00 624.00 Td (Final solution box pulses with gold aura: [x, y, z]^T = [1, 2, 3]^T.) Tj ET
+0.700 0.200 0.100 rg
+BT /F2 8 Tf 46.00 585.00 Td (EXACT SPOKEN NARRATION SCRIPT \(Word-for-Word\):) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7.5 Tf 46.00 573.00 Td ("Now comes the payoff: back-substitution.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7.5 Tf 46.00 562.00 Td (The bottom row tells us: negative seven z equals negative twenty-one.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7.5 Tf 46.00 551.00 Td (Dividing by negative seven gives z equals three.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7.5 Tf 46.00 540.00 Td (We substitute z = 3 into the second row: y minus two times three equals negative four.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7.5 Tf 46.00 529.00 Td (That is y minus six equals negative four, which gives y equals two.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7.5 Tf 46.00 518.00 Td (Finally, plug y = 2 and z = 3 into the top row: x plus two plus three equals six, meaning x plus five equals six, so x equals one.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7.5 Tf 46.00 507.00 Td (Our solution is x = 1, y = 2, and z = 3.") Tj ET
+0.960 0.990 0.960 rg
+0.100 0.600 0.300 RG
+1.00 w
+36.00 135.00 540.00 285.00 re
+B
+0.100 0.400 0.200 rg
+36.00 396.00 540.00 24.00 re
+f
+1.000 1.000 1.000 rg
+BT /F2 10 Tf 46.00 404.00 Td (SCENE 5: GEOMETRIC INTERPRETATION & DIRECT VERIFICATION) Tj ET
+0.600 1.000 0.600 rg
+BT /F2 9 Tf 370.00 404.00 Td (Timestamp: 4:25 - 5:06 | Duration: 41s) Tj ET
+0.100 0.400 0.200 rg
+BT /F2 8 Tf 46.00 380.00 Td (VISUAL SCREENPLAY & DIRECT SUBSTITUTION CHECK:) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7.5 Tf 46.00 368.00 Td (Left side: 3D planes return with axes and intersection point \(1, 2, 3\). Coordinate drops mark x=1, y=2, z=3.) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7.5 Tf 46.00 357.00 Td (Right side: Three original equations verify simultaneously with green checkmarks:) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7.5 Tf 46.00 346.00 Td (  Eq 1:  1 + 2 + 3 = 6           ==>  6 = 6    [CHECK - TRUE]) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7.5 Tf 46.00 335.00 Td (  Eq 2:  2\(1\) - \(2\) + \(3\) = 3     ==>  3 = 3    [CHECK - TRUE]) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7.5 Tf 46.00 324.00 Td (  Eq 3:  \(1\) + 2\(2\) - \(3\) = 2     ==>  2 = 2    [CHECK - TRUE]) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7.5 Tf 46.00 313.00 Td (Deep geometric takeaway: Row operations preserve intersection geometry while clarifying coordinate readout.) Tj ET
+0.700 0.200 0.100 rg
+BT /F2 8 Tf 46.00 285.00 Td (EXACT SPOKEN NARRATION SCRIPT \(Word-for-Word\):) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7.5 Tf 46.00 273.00 Td ("Let's connect this algebra back to our geometry.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7.5 Tf 46.00 262.00 Td (When we plot the three original equations in three-dimensional space, they meet at a single, unique point: \(1, 2, 3\).) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7.5 Tf 46.00 251.00 Td (Gaussian elimination did not move this point.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7.5 Tf 46.00 240.00 Td (Instead, it transformed three complex, tilted planes into three simple, coordinate-aligned boundaries that reveal the solution directly.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7.5 Tf 46.00 229.00 Td (We verify by checking all three original equations: one plus two plus three equals six; two minus two plus three equals three; and one plus four minus three equals two.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7.5 Tf 46.00 218.00 Td (Every equation holds perfectly.") Tj ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 17 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R /F5 7 0 R >> >> >>
+endobj
+17 0 obj
+<< /Length 6159 >>
+stream
+0.120 0.180 0.320 rg
+36 756 540 2 re f
+BT /F2 8 Tf 36 764 Td (LINEAR ALGEBRA AND CALCULUS (M3)  *  INTERNAL ASSESSMENT STORYBOARD) Tj ET
+BT /F1 8 Tf 400 764 Td (Topic: Gaussian Elimination (3 x 3)) Tj ET
+0.800 0.820 0.860 rg
+36 36 540 1 re f
+0.400 0.450 0.500 rg
+BT /F1 8 Tf 36 24 Td (Student: Meka Vikas  |  ID: E25B070539  |  Format: 16:9 MP4 1080p) Tj ET
+BT /F2 8 Tf 520 24 Td (Page 5 of 5) Tj ET
+0.100 0.150 0.300 rg
+BT /F2 14 Tf 36.00 735.00 Td (Summary, Mathematical Proofs, References & AI Disclosure) Tj ET
+0.980 0.980 0.980 rg
+0.300 0.300 0.300 RG
+1.00 w
+36.00 545.00 540.00 175.00 re
+B
+0.200 0.200 0.250 rg
+36.00 696.00 540.00 24.00 re
+f
+1.000 1.000 1.000 rg
+BT /F2 10 Tf 46.00 704.00 Td (SCENE 6: SUMMARY & CLOSING CREDITS) Tj ET
+1.000 0.800 0.400 rg
+BT /F2 9 Tf 370.00 704.00 Td (Timestamp: 5:06 - 5:33 | Duration: 27s) Tj ET
+0.200 0.200 0.250 rg
+BT /F2 8 Tf 46.00 680.00 Td (VISUAL SUMMARY & CREDITS:) Tj ET
+0.100 0.100 0.150 rg
+BT /F1 7.5 Tf 46.00 668.00 Td (5:06-5:26 Three cards display core takeaways on cue: 1. Augmented Matrices  2. Row Invariance  3. Back-Substitution.) Tj ET
+0.100 0.100 0.150 rg
+BT /F1 7.5 Tf 46.00 657.50 Td (5:26-5:33 Closing frame displays course header, project title, verified solution & takeaways strip, and student credentials.) Tj ET
+0.700 0.200 0.100 rg
+BT /F2 8 Tf 46.00 626.00 Td (EXACT SPOKEN NARRATION SCRIPT \(Word-for-Word\):) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7 Tf 46.00 614.00 Td ("To summarize: First, augmented matrices strip away notations to expose pure structure.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7 Tf 46.00 604.50 Td (Second, elementary row operations simplify equations while preserving the exact same solution set.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7 Tf 46.00 595.00 Td (And third, reaching row echelon form unleashes a cascade of back-substitution to solve the system.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7 Tf 46.00 585.50 Td (That is the elegance of Gaussian elimination.) Tj ET
+0.150 0.150 0.200 rg
+BT /F3 7 Tf 46.00 576.00 Td (I am Meka Vikas. Thank you for watching.") Tj ET
+0.950 0.970 1.000 rg
+0.200 0.400 0.800 RG
+36.00 385.00 540.00 145.00 re
+B
+0.150 0.250 0.450 rg
+BT /F2 8.5 Tf 46.00 514.00 Td (MATHEMATICAL VERIFICATION SHEET & THEORETICAL RIGOR:) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7 Tf 46.00 498.00 Td (1. Determinant Verification: det\(A\) = 1*\(-1*-1 - 1*2\) - 1*\(2*-1 - 1*1\) + 1*\(2*2 - -1*1\) = 1*\(-1\) - 1*\(-3\) + 1*\(5\) = 7 != 0.) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7 Tf 46.00 488.00 Td (   Since det\(A\) = 7 != 0, matrix A is invertible, has full rank 3, and guarantees a unique intersection point in R^3.) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7 Tf 46.00 478.00 Td (2. REF Determinant Consistency: In echelon form, product of diagonal elements is 1 * 1 * \(-7\) = -7.) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7 Tf 46.00 468.00 Td (   Accounting for exactly one row swap \(R2 <-> R3\) which multiplies det by \(-1\): det\(A\) = -1 * \(-7\) = 7 \(Consistent\).) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7 Tf 46.00 458.00 Td (3. Solution Set Invariance: Elementary row operations correspond to multiplication by invertible elementary matrices) Tj ET
+0.100 0.100 0.150 rg
+BT /F5 7 Tf 46.00 448.00 Td (   E1, E2, P23, E4. Since each elementary matrix is non-singular, Sol\(Ax = b\) = Sol\(Ux = b'\) is mathematically invariant.) Tj ET
+0.980 0.960 0.940 rg
+0.800 0.400 0.100 RG
+36.00 60.00 540.00 310.00 re
+B
+0.600 0.300 0.000 rg
+BT /F2 8.5 Tf 46.00 355.00 Td (MATHEMATICAL REFERENCES:) Tj ET
+0.100 0.100 0.150 rg
+BT /F1 7 Tf 46.00 342.00 Td (1. Strang, Gilbert. Introduction to Linear Algebra, 5th ed., Wellesley-Cambridge Press, 2016. \(Chapter 2: Elimination\)) Tj ET
+0.100 0.100 0.150 rg
+BT /F1 7 Tf 46.00 332.50 Td (2. Lay, David C., Lay, Steven R., & McDonald, Judi J. Linear Algebra and Its Applications, 5th ed., Pearson, 2016. \(Sections 1.1-1.2\)) Tj ET
+0.100 0.100 0.150 rg
+BT /F1 7 Tf 46.00 323.00 Td (3. Sanderson, Grant \(3Blue1Brown\). Essence of Linear Algebra Video Series, 2016. \(Geometric perspective & visual pacing\)) Tj ET
+0.100 0.100 0.150 rg
+BT /F1 7 Tf 46.00 313.50 Td (4. Anton, Howard, & Rorres, Chris. Elementary Linear Algebra, 11th ed., Wiley, 2014. \(Row reduction algorithms\)) Tj ET
+0.600 0.300 0.000 rg
+BT /F2 8.5 Tf 46.00 290.00 Td (FORMAL AI TOOL DISCLOSURE STATEMENT:) Tj ET
+0.100 0.100 0.150 rg
+BT /F1 7 Tf 46.00 277.00 Td (- AI Tool Utilized: Antigravity AI \(Google DeepMind\) as an interactive pedagogical co-designer and scripting assistant.) Tj ET
+0.100 0.100 0.150 rg
+BT /F1 7 Tf 46.00 267.50 Td (- Scope of AI Usage: Timing budgeting \(ensuring 5-minute target\), LaTeX equation formatting, storyboard layout scaffolding,) Tj ET
+0.100 0.100 0.150 rg
+BT /F1 7 Tf 46.00 258.00 Td (  and Manim programmatic animation architecture planning.) Tj ET
+0.100 0.100 0.150 rg
+BT /F1 7 Tf 46.00 248.50 Td (- Student Original Effort & Human Verification: Every matrix transformation, intermediate arithmetic calculation, determinant check,) Tj ET
+0.100 0.100 0.150 rg
+BT /F1 7 Tf 46.00 239.00 Td (  and back-substitution was independently calculated on paper and verified by the student. Voice narration will be personally spoken) Tj ET
+0.100 0.100 0.150 rg
+BT /F1 7 Tf 46.00 229.50 Td (  and recorded by the student. The student is prepared to independently defend all derivations and animation code during course viva.) Tj ET
+0.600 0.300 0.000 rg
+BT /F2 8.5 Tf 46.00 205.00 Td (OPENING AND CLOSING FRAME SPECIFICATIONS \(Course Compliance\):) Tj ET
+0.100 0.100 0.150 rg
+BT /F1 7 Tf 46.00 192.00 Td (* OPENING FRAME \(0:00 - 0:12.8\): Features Project Title \('Gaussian Elimination: Solving a 3x3 System Step by Step'\),) Tj ET
+0.100 0.100 0.150 rg
+BT /F1 7 Tf 46.00 182.50 Td (  Course Banner \('Linear Algebra and Calculus M3'\), Student Name \(Meka Vikas\), URN \(E25B070539\), and GitHub.) Tj ET
+0.100 0.100 0.150 rg
+BT /F1 7 Tf 46.00 173.00 Td (* CLOSING FRAME \(5:26.8 - 5:33.2\): Re-states Project Title, Student Credentials, References, Audio Note, and AI Disclosure.) Tj ET
+0.100 0.100 0.150 rg
+BT /F1 7 Tf 46.00 163.50 Td (* VIVA READINESS: Prepared to demonstrate matrix rank, elementary row matrices, pivot mechanics, and code structure.) Tj ET
+endstream
+endobj
+xref
+0 18
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000149 00000 n 
+0000000246 00000 n 
+0000000348 00000 n 
+0000000453 00000 n 
+0000000548 00000 n 
+0000000648 00000 n 
+0000000814 00000 n 
+0000007300 00000 n 
+0000007468 00000 n 
+0000013433 00000 n 
+0000013601 00000 n 
+0000020719 00000 n 
+0000020887 00000 n 
+0000025935 00000 n 
+0000026103 00000 n 
+trailer
+<< /Size 18 /Root 1 0 R >>
+startxref
+32315
+%%EOF

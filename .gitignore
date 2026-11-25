@@ -1,0 +1,36 @@
+# macOS & Finder artifacts
+.DS_Store
+**/.DS_Store
+._*
+Video/untitled folder/
+Video/*1.mp4
+
+# Local audio assets (kept locally, excluded from Git)
+Audio/
+
+# Python caches & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Node & web caches
+node_modules/
+
+# Manim / LaTeX / build outputs & logs
+media/
+Tex/
+*.log
+*.tmp
+*.aux
+*.out
+*.o
+*.dSYM/
+
+# Environment & credentials
+.env
+.env.*
+*.pem
+*.key
