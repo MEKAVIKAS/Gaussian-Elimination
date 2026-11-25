@@ -7,6 +7,7 @@ An educational 1080p mathematical animation video and reproducible code suite de
 - **GitHub Repository:** [https://github.com/MEKAVIKAS/Gaussian-Elimination-Animation](https://github.com/MEKAVIKAS/Gaussian-Elimination-Animation)
 - **GitHub Profile:** [https://github.com/MEKAVIKAS](https://github.com/MEKAVIKAS)
 - **Final Rendered Video:** [`Video/M3_Gaussian_Elimination.mp4`](Video/M3_Gaussian_Elimination.mp4) (`1920 × 1080`, `16:9`, `30 fps`, `5m 33.2s`)
+- ** Video-Drive-Link:** [https://drive.google.com/file/d/1kv9ghimOd7U9KXnyqMgTDmpyzbgo3TYh/view?usp=sharing]
 
 ---
 
